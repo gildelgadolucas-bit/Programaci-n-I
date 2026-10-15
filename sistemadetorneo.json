@@ -1,0 +1,34 @@
+{
+"contexto_institucional": {
+"nombre_club": "Club Deportivo Litoral",
+"evento": "Torneo abierto de pádel",
+"frecuencia": "Anual",
+"participantes": "Decenas de jugadores de la ciudad y la región"
+},
+"situacion_actual": {
+"metodologia": "Manual",
+"herramientas_utilizadas": [
+"Planillas de papel",
+"Cuadernos",
+"Pizarra",
+"Calculadora"
+],
+"tareas_realizadas": [
+"Anotación de parejas inscriptas",
+"Armado de grupos a mano",
+"Registro de resultados de partidos",
+"Cálculo de posiciones"
+],
+"problemas_identificados": [
+"Proceso lento",
+"Errores humanos al sumar puntos",
+"Falta de disponibilidad de información al instante"
+]
+},
+"proyecto_modernizacion": {
+"decision": "Digitalizar y modernizar la gestión del torneo",
+"equipo_desarrollo": "Estudiantes de Ingeniería en Sistemas",
+"tecnologia": "Python",
+"objetivo_principal": "Desarrollar un programa para gestionar el torneo de principio a fin"
+}
+}
